@@ -1,0 +1,26 @@
+body{
+	/*height: 1000px;*/
+}
+
+#my-box{
+
+	width: 100px;
+	height: 100px;
+	background-color: lightgreen;
+	position: absolute;
+	top: 100px;
+	left: 150px;
+}
+/*
+#my-box-two{
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
+
+#outer-div{
+	width: 500px;
+	height: 350px;
+	border: 1px solid black;
+	/*margin-left: 300px;*/
+}*/
